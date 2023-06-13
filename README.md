@@ -11,7 +11,7 @@ The Instagram Story View is a Swift component that fetches dominant colors from 
 
 ## Requirements
 
-- iOS 11.0+
+- iOS 15.0+
 - Swift 4+
 
 ## Key Features:
