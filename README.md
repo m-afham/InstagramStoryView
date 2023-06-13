@@ -1,5 +1,6 @@
 <div align="center">
- 
+ <img width="100" src="https://github.com/m-afham/InstagramStoryView/assets/35783310/2d3f166a-181b-491b-8881-2481f5b77d42.png" alt="Icon" /> <br>
+
   InstagramStoryView <br>  <br>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/m-afham/InstagramStoryView?color=red)
